@@ -1,6 +1,5 @@
 # SC1015-Group-8
-Welcome to ____ repository
---------
+Welcome to _____ repository
 
 ## About
 This is the Mini-Project for SC1015 Introduction to Data Science and Artificial Intelligence which focuses on ____. 
@@ -11,6 +10,6 @@ This is the Mini-Project for SC1015 Introduction to Data Science and Artificial 
 
 ## Conclusion
 
-## What we learnt from this project
+## What we learned from this project
 
 ## References
