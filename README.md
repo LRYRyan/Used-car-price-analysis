@@ -1,5 +1,6 @@
 # SC1015-Group-8
-Welcome to _____ repository/n
+Welcome to _____ repository
+
 https://colab.research.google.com/drive/1KX8u3OqGDE2v6cMrlb_GG62s4YZpjx8T?usp=sharing#scrollTo=Ibe_y12BrcSZ //DELETE BEFORE SUBMISSION
 
 ## About
