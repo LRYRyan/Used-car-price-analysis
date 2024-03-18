@@ -1,5 +1,5 @@
 # SC1015-Group-8
-> Welcome to ____ repository
+Welcome to ____ repository
 --------
 
 ## About
