@@ -13,4 +13,4 @@ This is the Mini-Project for SC1015 Introduction to Data Science and Artificial 
 ## What we learned from this project
 
 ## References
-*https://www.kaggle.com/datasets/tunguz/used-car-auction-prices?resource=download
+- https://www.kaggle.com/datasets/tunguz/used-car-auction-prices?resource=download
