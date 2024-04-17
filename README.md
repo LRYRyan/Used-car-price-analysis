@@ -30,7 +30,7 @@ Our source code follows the order of:
 ## What we learned from this project
 - Data cleaning, filtering our unnecessary parts of the data and conversion from obect to integers
 - Decision tree regressor, similar to decision tree classifier we learnt but for continuous values
-- XBG
+- XGB
 
 ## References
 - https://www.kaggle.com/datasets/milanvaddoriya/old-car-price-prediction
