@@ -21,7 +21,7 @@ Our source code follows the order of:
 
 - Linear Regression
 - Binary Search Tree
-- Extreme Gradiant Boosting (XGB)
+- Extreme Gradient Boosting (XGB)
   
 ## Conclusion
 - Majority of car prices fall under $50,000
