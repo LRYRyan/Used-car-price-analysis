@@ -32,7 +32,8 @@ Our source code follows the order of:
 ## What we learned from this project
 - Data cleaning, filtering our unnecessary parts of the data and conversion from obect to integers
 - Decision tree regressor, similar to decision tree classifier we learnt but for continuous values
-- XGB
+- XGB can combine multiple decision trees to model non-linear relationships and employing regularization techniques to stabilize predictions, combating high variance and low bias.
+- XGB parameters can be tuned to perform better on the data sets
 
 ## References
 - https://www.kaggle.com/datasets/milanvaddoriya/old-car-price-prediction
