@@ -40,8 +40,8 @@ Our source code follows the order of:
 - https://samanemami.medium.com/evaluate-the-decision-regressor-tree-d8394d753ae7
 
 ## Contributors
-Ryan Lau Rui Yang - EDA, ML(LR & DTR)
-Xu Shuwei - ML(XGB)
-Chua Sherilyn - EDA, ML(LR)
+- Ryan Lau Rui Yang - Data Cleaning, Exploratory Data Analysis, Linear Regression, Decision Tree Regressor
+- Xu Shuwei - Extreme Gradient Boosting
+- Chua Sherilyn - Exploratory Data Analysis, Linear Regression
 
 
