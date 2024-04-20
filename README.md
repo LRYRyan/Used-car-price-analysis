@@ -20,7 +20,7 @@ Our source code follows the order of:
 ## Models Used
 
 - Linear Regression
-- Binary Search Tree
+- Decision Tree Regressor
 - Extreme Gradient Boosting (XGB)
   
 ## Conclusion
