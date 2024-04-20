@@ -8,7 +8,7 @@ https://docs.google.com/presentation/d/1usSl6NxwoTg-eQS-nd0RPfQe929arsKkGvGod1oI
 ## About
 This is the Mini-Project for SC1015 Introduction to Data Science and Artificial Intelligence which focuses on the analysis and prediction of used car prices. We used data from  [Old car price prediction](https://www.kaggle.com/datasets/milanvaddoriya/old-car-price-prediction) to make our predictions for car prices. This database contains used car prices from India up to the year 2022.
 Our source code follows the order of:
-1. Data cleaning
+1. Data Cleaning
 2. Exploratory data analysis
 3. Machine learning
 
@@ -37,3 +37,11 @@ Our source code follows the order of:
 
 ## References
 - https://www.kaggle.com/datasets/milanvaddoriya/old-car-price-prediction
+- https://samanemami.medium.com/evaluate-the-decision-regressor-tree-d8394d753ae7
+
+## Contributors
+Ryan Lau Rui Yang - EDA, ML(LR & DTR)
+Xu Shuwei - ML(XGB)
+Chua Sherilyn - EDA, ML(LR)
+
+
