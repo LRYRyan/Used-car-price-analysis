@@ -1,10 +1,6 @@
 # SC1015-Group-8
 Welcome to car price analysis repository
 
-https://colab.research.google.com/drive/1KX8u3OqGDE2v6cMrlb_GG62s4YZpjx8T?usp=sharing#scrollTo=Ibe_y12BrcSZ //DELETE BEFORE SUBMISSION
-
-https://docs.google.com/presentation/d/1usSl6NxwoTg-eQS-nd0RPfQe929arsKkGvGod1oI5BE/edit?usp=sharing //DELETE BEFORE SUBMISSION
-
 ## About
 This is the Mini-Project for SC1015 Introduction to Data Science and Artificial Intelligence which focuses on the analysis and prediction of used car prices. We used data from  [Old car price prediction](https://www.kaggle.com/datasets/milanvaddoriya/old-car-price-prediction) to make our predictions for car prices. This database contains used car prices from India up to the year 2022.
 Our source code follows the order of:
