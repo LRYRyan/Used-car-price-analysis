@@ -1,5 +1,9 @@
 # SC1015-Group-8
-Welcome to car price analysis repository
+Welcome to car price analysis repository, this repository includes:
+- ReadMe
+- Presentation slides
+- Dataset
+- Project notebook
 
 ## About
 This is the Mini-Project for SC1015 Introduction to Data Science and Artificial Intelligence which focuses on the analysis and prediction of used car prices. We used data from  [Old car price prediction](https://www.kaggle.com/datasets/milanvaddoriya/old-car-price-prediction) to make our predictions for car prices. This database contains used car prices from India up to the year 2022.
