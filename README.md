@@ -1,4 +1,4 @@
-# SC1015-Group-8
+# Used car price data visualisation and machine learning; SC1015-Group-8
 Welcome to car price analysis repository, this repository includes:
 - ReadMe
 - Presentation slides
